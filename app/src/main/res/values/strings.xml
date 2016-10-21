@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvMedidas</string>
+    <string name="pies">Cantidad en Pies</string>
+    <string name="metros">Cantidad en Metros</string>
+    <string name="BtnCal">Calcular suma</string>
+</resources>
+
